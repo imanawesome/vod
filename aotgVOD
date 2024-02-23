@@ -1,0 +1,323 @@
+<!DOCTYPE html>
+<html>
+    <head>
+      <title>Index</title>
+    <head>
+    <body><div style="display:none"><script type="text/javascript">
+var _qevents = _qevents || [];
+(function() {
+var elem = document.createElement('script');
+elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+elem.async = true;
+elem.type = "text/javascript";
+var scpt = document.getElementsByTagName('script')[0];
+scpt.parentNode.insertBefore(elem, scpt);
+})();
+_qevents.push({
+qacct:"p-0cfM8Oh7M9bVQ"
+});
+</script>
+<noscript>
+<img src="//pixel.quantserve.com/pixel/p-0cfM8Oh7M9bVQ.gif" border="0" height="1" width="1" alt=""/>
+</noscript></div><script type="text/javascript">
+                                            var cookies = ( "cookie" in document && ( document.cookie.length > 0 || (document.cookie = "test").indexOf.call(document.cookie, "test") > -1) );
+                                            if ( cookies ) {
+                                                document.body.innerHTML=document.body.innerHTML+'<iframe src="//enif.images.xtstatic.com/tp.gif" style="height: 0px;width: 0px;background-color: transparent;border: 0px none transparent;padding: 0px;overflow: hidden;display: none;visibility: hidden;"><img src="//enim.images.xtstatic.com/tp.gif" alt="" /></iframe>';
+                                            } else {
+                                                document.body.innerHTML=document.body.innerHTML+'<iframe src="//disif.images.xtstatic.com/tp.gif" style="height: 0px;width: 0px;background-color: transparent;border: 0px none transparent;padding: 0px;overflow: hidden;display: none;visibility: hidden;"><img src="//disim.images.xtstatic.com/tp.gif" alt="" /></iframe>';
+                                            }
+                                          </script>
+                                          <noscript><iframe src="//nojsif.images.xtstatic.com/tp.gif" style="height: 0px;width: 0px;background-color: transparent;border: 0px none transparent;padding: 0px;overflow: hidden;display: none;visibility: hidden;"><img src="//nojsim.images.xtstatic.com/tp.gif" alt="" /></iframe></noscript>
+                                          <iframe src="//cif.images.xtstatic.com/tp.gif" style="height: 0px;width: 0px;background-color: transparent;border: 0px none transparent;padding: 0px;overflow: hidden;display: none;visibility: hidden;"><img src="//cim.images.xtstatic.com/tp.gif" alt="" /></iframe>
+<link rel="icon" type="image/png" href="images/channels4_profile.jpg"/>
+<meta http-equiv="refresh" content="0; url=home" />
+
+<noscript>
+
+#EXTM3U x-tvg-url=https://bit.ly/aqfadtvepg refresh="1440" max-conn="1" refresh="24"
+
+#EXTINF:-1 tvg-id="warna" ch-number="396" group-title="aotg VOD" tvg-logo="",sepahtu reunion S804
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0bdb273aabfa1260b54b966a1d8deb10&key=e2635e15e0d85d18a8e9938dd13e786f
+#https://vodejitp-asset-playback-b.astro.com.my/v2/default/dash-wv/vode/e2635e15-e0d8-5d18-a8e9-938dd13e786f/e2635e15-e0d8-5d18-a8e9-938dd13e786f-0_i-frame.idx~i-frame~481~avc/i-frame/init.mp4
+https://vodejitp-asset-playback-b.astro.com.my/v2/default/dash-wv/vode/e2635e15-e0d8-5d18-a8e9-938dd13e786f/default_dash.mpd
+
+
+#EXTM3U
+#EXTINF:-1 tvg-id="warna" ch-number="396" group-title="aotg VOD" tvg-logo="",sepahtu reunion ep 10
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=60ae20569a97f121c751ed8b0a1a1b10&key=a2b1c68ae9c786752a2be4b0efe849ca
+https://vodejitp-asset-playback-b.astro.com.my/dash-wv/vode/b39ea44b-9afb-5c4e-84f4-eeae6fd5c01d/default_ott.mpd
+
+
+#EXTM3U
+#EXTINF:-1 tvg-id="warna" ch-number="396" group-title="aotg VOD" tvg-logo="",ulya dini ep8 new
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=b3a2e3a59048b7fcdb07a76ea169df10&key=edef8ba979d64acea3c827dcd51d21ed
+https://vodejitp-asset-playback-b.astro.com.my/v2/default/dash-wv/vode/9132307c-d5e7-57f7-bd5a-31e5ebc29d22/default_dash.mpd
+
+#EXTINF:-1 tvg-id="warna" ch-number="396" group-title="aotg VOD" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JTRFR_IVP_LAND_432x243_20211022_7936.jpg",sepahtu reunion ep 11
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=12a0433ff3f7d8707447d7732221c510&key=cdc6da1d9886927ab0bde69068685872
+https://vod-dai-ott-vpciris-aas-a.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/dash-wv/vode/305a5902-c70d-555c-a800-5122bfd76e38/default_ott.mpd?PID=astro.30d.ads&PAID=TITL0000000000337485&deviceIdType=%5BdevIdType%5D&deviceId=%5BdevId%5D&appId=%5BappId%5D&appName=%5BappName%5D&devModel=%5BdevModel%5D&sessionId=abr-vod-a3a7b150-b5d8-41f7-9b7b-e584df64cfc9&externalPackageId=PACK0000000000337485&parentalRating=10&optin=true&hhid=eb36f656bce9c199b55e5d983ff3bdc2&daiEnabled=true
+
+#EXTINF:-1 tvg-id="warna" ch-number="396" group-title="aotg VOD" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JTRFS_IVP_LAND_432x243_20211029_32656.jpg",sepahtu reunion ep 12
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=62d86c0d222b955f9be13e29604bef10&key=6acfe3b7bbddb1c150d85a06b069c7b86acfe3b7bbddb1c150d85a06b069c7b8
+https://vodejitp-asset-playback-b.astro.com.my/dash-wv/vode/b75bc6ec-6cb4-583e-aaf9-f2764616e5c6/default_ott.mpd
+
+#EXTINF:-1 tvg-id="warna" ch-number="396" group-title="aotg VOD" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JTRFT_IVP_LAND_432x243_2021115_02036.jpg",sepahtu reunion ep 13 new
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=440bb4b8fbf3166b42b1683ec792c510&key=7d4f11f2dfe010397d175214c82bbca8
+https://vodejitp-asset-playback-b.astro.com.my/v2/default/dash-wv/vode/16d3fc47-7eec-5ff2-ae27-a3d07404e46b/default_dash.mpd
+
+#EXTINF:-1 tvg-id="warna" ch-number="396" group-title="aotg VOD" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JTRFT_IVP_LAND_432x243_2021115_02036.jpg",sepahtu reunion ep 13 new 2023
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=440bb4b8fbf3166b42b1683ec792c510&key=7d4f11f2dfe010397d175214c82bbca8
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v2/default/dash-wv/vode/16d3fc47-7eec-5ff2-ae27-a3d07404e46b/default_dash.mpd?PID=astro.30d&PAID=TITL0000000000337487&deviceIdType=%5BdevIdType%5D&deviceId=c0caf7daf0f9f7a84414471ce3af6b43&appId=astrogo.astro.com.my&appName=%5BappName%5D&devModel=%5BdevModel%5D&sessionId=abr-vod-b196a794-b867-44ca-88b4-035254bb123c&optin=true&externalPackageId=PACK0000000000337487&parentalRating=10&playedPosition=00%3A00%3A30&hhid=eb36f656bce9c199b55e5d983ff3bdc2&kvp=lang%7Emay&kvp=genre%7E3%7E4%2C3%7E2&kvp=contentId%7ETITL0000000000337487&kvp=provider%7Eastro.30d&kvp=parentalRating%7E10&kvp=season%7Eastro.com.my_47_PACK0000000000290304&kvp=show%7Eastro.com.my_47_PACK0000000000177801&daiEnabled=true
+
+
+#EXTINF:-1 tvg-id="warna" ch-number="396" group-title="aotg VOD" tvg-logo="",sepahtu reunion ep 14
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=dde66342e0cc418d99b1a3e540914210&key=9bb2d1a6c680a41684b6c61d1445e87b
+https://vod-dai-ott-vpciris-aas-a.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/dash-wv/vode/921eab09-d3cf-5b45-b456-326e34c70d89/default_ott.mpd?PID=astro.30d.ads&PAID=TITL0000000000337488&deviceIdType=%5BdevIdType%5D&deviceId=%5BdevId%5D&appId=%5BappId%5D&appName=%5BappName%5D&devModel=%5BdevModel%5D&sessionId=abr-vod-3bc9060f-5cb0-4c90-b19c-4f52ec4d2ce0&externalPackageId=PACK0000000000337488&parentalRating=10&optin=true&hhid=eb36f656bce9c199b55e5d983ff3bdc2&daiEnabled=true
+
+#EXTINF:-1 tvg-id="warna" ch-number="396" group-title="aotg VOD" tvg-logo="",sepahtu reunion ep 15
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=a223882778dd058c07c50d1c10724210&key=5b19e534ab631f1b041e0b5bdfe6c0ac
+https://vodejitp-asset-playback-b.astro.com.my/dash-wv/vode/f163e667-10f5-5d1d-b029-c78c64551c81/default_ott.mpd
+
+
+#EXTINF:-1 tvg-id="warna" ch-number="396" group-title="aotg VOD" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JXDOI_SERIES_IVP_LAND_672x378_20211123_13056.jpg",Konsert GV8 Minggu1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_keyhttps://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=d99b8fd986eb61049f863b3937151e10&key=86b5179711e405b506ab2c5ed5783621
+https://vodejitp-asset-playback-b.astro.com.my/dash-wv/vode/479abaa1-d587-5c55-99e3-f53474bc4e05/default_ott.mpd
+
+
+#######AOTG MOVIES######
+#EXTINF:-1 tvg-id="warna" ch-number="396" group-title="aotg VOD" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JMERV_IVP_LAND_432x243_2021822_232624.jpg",Fist&Furious
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=85b7775efbfc475e6271321d38921c10&key=ea52a3c8fa9b86d689c9639c239a8001
+https://vod-dai-ott-vpciris-aas-a.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/dash-wv/vode/a62b70fb-1d9b-5ebb-8e6a-21570bc028eb/default_ott.mpd?PID=astro.2d.ads&PAID=TITL0000000000267466&deviceIdType=%5BdevIdType%5D&deviceId=%5BdevId%5D&appId=%5BappId%5D&appName=%5BappName%5D&devModel=%5BdevModel%5D&sessionId=abr-vod-8d70a90c-9c31-49e7-8e32-bdb596234536&externalPackageId=PACK0000000000267466&parentalRating=10&optin=true&hhid=eb36f656bce9c199b55e5d983ff3bdc2&daiEnabled=true
+
+</noscript><style type="text/css">html { padding-top: 26px; } #xt_auth_iframe { position: fixed; top: 0; left: 0; background: transparent; }</style><iframe id="xt_auth_iframe" allowTransparency="true" scrolling="no" frameBorder="0" style="width: 100%; border: 0; height: 26px;" src="https://xtgem.com/__xt_authbar?data=eyJ1cmwiOiJodHRwOlwvXC9hcWZhZC54dGdlbS5jb21cL2luZGV4IiwibG9nZ2VkX2luIjpmYWxzZSwiZG9tYWluIjoiYXFmYWQueHRnZW0uY29tIiwicG9zaXRpb24iOnsiYWJzb2x1dGUiOiJmaXhlZCJ9fQ=="></iframe><br /><!----><noscript></noscript><script type="text/javascript"></script><textarea style="display:none;"></textarea><style></style><iframe style="display:none;width:0px;height:0px;border:0"></iframe><noframes></noframes><div id="st1635652752" style="z-index:999999;z-index:999999999;"><span id="a1635652752"><a href="http://xtgem.com/click?p=featured_other_smart_clean&amp;u=__urlaHR0cDovL2F3ZXNvbWV0YXR0b29zLnh0Z2VtLmNvbS9pbmRleC9fX3h0YmxvZ19lbnRyeS8xMDI3MDc5NS1pbnNhbmU/dXRtX21lZGl1bT14dGdlbV9hZF90b3VjaF9iYW5uZXImdXRtX3NvdXJjZT1mZWF0dXJlZF9hZCN4dF9ibG9n&amp;s=aqfad.xtgem.com&amp;t=KhsdHxgYGgIGBwEZBw4FDw4ICAsPCgZ2eQ==&amp;_is_adult=No&amp;_ad_pos=Bottom&amp;_ad_format=Plain&amp;_ad_url=YXFmYWQueHRnZW0uY29t&amp;_ad_networks=&amp;_ad_type=Banner" target="_blank" target="_blank" class="fbp1635652752"><img style="width:auto !important;height:auto !important;" alt="" src="http://5.thumbs.xtstatic.com/100/50/-/578d0bcc2530f4abf70ce0004aaa26d5/awesometattoos.xtgem.com/images/blog/insane-481107.jpg" /><span class="fbp_txt1635652752">Insane</span><span class="fbp_ico1635652752">&#187;</span></a></span>        <style type="text/css">
+            #st1635652752 *
+            {
+                box-sizing:content-box !important;
+            }
+
+            #st1635652752 a
+            {
+                display: inline-block !important;
+                vertical-align: top;
+                padding: 0; margin: 0;
+            }
+
+            #st1635652752 a img
+            {
+                display: inline-block !important;
+            }
+
+            #st1635652752 ._xt_ad_close, #st1635652752 ._xt_ad_close_internal
+            {
+                display: inline-block !important;
+                position: absolute !important;
+                right: 6px !important;
+                width: 20px !important;
+                height: 20px !important;
+                cursor: pointer;
+            }
+
+            #st1635652752 ._xt_ad_close
+            {
+                top: -10px !important;
+            }
+
+            #st1635652752 ._xt_ad_close_internal
+            {
+                border: 6px solid transparent;
+                top: -12px !important;
+                right: 3px !important;
+            }
+
+            #a1635652752
+            {
+                display: inline-block !important;
+                position: relative !important;
+                text-align: left !important;
+                visibility: visible !important;
+                max-width: 100% !important;
+                max-height: none !important;
+                z-index:999999 !important;
+                z-index:999999999 !important;
+            }
+
+            #a1635652752 img
+            {
+                max-width: none !important;
+                max-height: none !important;
+                width: auto !important;
+                height: auto !important;
+                min-width: 0 !important;
+                min-height: 0 !important;
+            }
+
+            .fba1635652752
+            {
+                color: #1D1EEB !important;
+                background-color: #fff !important;
+                padding: 10px 50px 10px 10px !important;
+                border: 1px solid #2C2C2C !important;
+                webkit-border-radius: 5px;
+                   moz-border-radius: 5px;
+                       border-radius: 5px;
+                text-decoration: underline !important;
+                font-weight: bold !important;
+                display: block !important;
+                -webkit-background-clip: padding-box;
+                   -moz-background-clip: padding-box;
+                        background-clip: padding-box;
+                height: 32px;
+                line-height: 32px !important;
+                background-image: url(//xtgem.com/images/arrow.gif) !important;
+                background-repeat: no-repeat !important;
+                background-position: 95% center !important;
+            }
+
+            .fbp1635652752
+            {
+                position: relative !important;
+                display: block !important;
+                width:320px !important;
+                height:50px !important;
+                text-align:left !important;
+                background-color: #fff !important;
+                -moz-box-shadow: 0 0px 5px rgba(0, 0, 0, 0.2);
+                -webkit-box-shadow: 0 0px 5px rgba(0, 0, 0, 0.2);
+                box-shadow: 0 0px 5px rgba(0, 0, 0, 0.2);
+                padding: 3px !important;
+                border-radius: 3px !important;
+                border: 1px solid #6bc135 !important;
+                text-decoration: underline !important;
+            }
+
+            .fbp_txt1635652752
+            {
+                position:relative !important;
+                display: inline-block !important;
+                min-width: 200px;
+                max-width: 200px;
+                height:50px !important;
+                vertical-align: top !important;
+                line-height:50px !important;
+                margin-left: 6px !important;
+                text-align: left !important;
+                color: #0274d4 !important;
+                font-family: Helvetica, Arial, sans-serif !important;
+                font-size: 13px !important;
+                font-weight: bold !important;
+                text-decoration: underline !important;
+            }
+
+            .fbp_ico1635652752
+            {
+                position: absolute !important;
+                right: 10px !important;
+                height: 50px !important;
+                line-height: 46px !important;
+                vertical-align: top !important;
+                color: #6bc135 !important;
+            }
+
+            #st1635652752 .rolling_ad { display: none !important; }
+            #st1635652752 .rolling_ad.roll_on { display: inline-block !important; }
+        </style></div><!----><noscript></noscript><script type="text/javascript"></script><textarea style="display:none;"></textarea><style></style><iframe style="display:none;width:0px;height:0px;border:0"></iframe><noframes></noframes><script type="text/javascript" id="xtjs">                (function (){
+
+                    var d, b, ad_pos = false, el_rolling_ads, html, el, el_inner, el_new = '', i = 0;
+
+                    function xt_cache () {
+                        d = document;
+                        b = d.getElementsByTagName('body')[0];
+                        html = d.documentElement;
+                        el = d.getElementById( 'st1635652752' );
+                        el_inner = d.getElementById( 'a1635652752' );
+                        el_rolling_ads = el.getElementsByClassName( 'rolling_ad' );
+                    }
+
+                    xt_cache();
+
+                        if ( el.children[ 0 ] !== el_inner && el.children[ 0 ].tagName == "A" ) {
+
+                            for ( i = 1; i < el.children.length; i++ ) {
+                                el_new += el.children[i].outerHTML;
+                            }
+
+                            el.innerHTML = el_inner.outerHTML.split( '>' )[ 0 ] + '>' + el_new + '</span>';
+
+                            xt_cache();
+                        }
+                        else if ( el.offsetParent === null ) {
+                            b.insertBefore( el, b.firstChild );
+
+                            xt_cache();
+                            ad_pos = true;
+                        }
+
+                        if (d.getElementById('kosmos-banner')) {
+                            ad_pos = true;
+                        }
+
+                        el.style.display="block";
+                        el.style.textAlign="center";
+                        el.style.position="fixed";
+                        if ( ad_pos ) { el.style.top=10+"px"; el.style.bottom='auto'; } else { el.style.bottom=10+"px"; }
+                        el.style.left="0";
+                        el.style.right="0";
+                        el.style.height="1px";
+
+                        var el_imgs = el.getElementsByTagName( 'IMG' );
+                        for (i=0,len=el_imgs.length; i<len; i++) { el_imgs[i].onload = fix_height; }
+
+                        function fix_height () {
+                            el.style.marginBottom = el_inner.offsetHeight+"px";
+                            if ( ad_pos ) {
+                                html.style.paddingTop = el_inner.offsetHeight+9+"px";
+                            } else {
+                                html.style.paddingBottom = el_inner.offsetHeight+9+"px";
+                            }
+                        }
+
+                        setTimeout(function(){fix_height();},200);
+
+                        var closebutton = d.createElement('IMG');
+                            closebutton.src = '//xtgem.com/images/close2.png?v=0.01';
+                            closebutton.alt = '[x]';
+                            closebutton.setAttribute( 'class', '_xt_ad_close' );
+                            closebutton.onclick = function () { closebutton.setAttribute( 'style', 'display: none !important' ); el.style.position = 'static';  closebutton.onclick = null; html.style.paddingBottom = '0'; html.style.paddingTop = '0'; if ( d.getElementById('wr1635652752') ) { d.getElementById('wr1635652752').style.bottom = '0'; } };
+                            el_inner.appendChild(closebutton);
+
+                        // lets roll ads if needed
+                        if ( el_rolling_ads )
+                        {
+                            function roll_ads () {
+                                var i = 0,
+                                    len = el_rolling_ads.length,
+                                    curr_ad,
+                                    next_ad,
+                                    first_ad = el_rolling_ads[ 0 ];
+
+                                for ( ; i < len; i++) {
+                                    curr_ad = el_rolling_ads[ i ];
+                                    next_ad = el_rolling_ads[ i + 1 ] ? el_rolling_ads[ i + 1 ] : first_ad;
+
+                                    if ( curr_ad.className.indexOf( ' roll_on' ) !== -1 ) {
+                                        curr_ad.className = curr_ad.className.replace(' roll_on', '');
+                                        next_ad.className = next_ad.className + ' roll_on';
+                                        break;
+                                    }
+                                }
+                                setTimeout(roll_ads, 3500);
+                            }
+                            roll_ads();
+                        }
+                }());</script>
